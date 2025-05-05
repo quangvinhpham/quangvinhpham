@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Pham Quang Vinh
 
-<!--
-**quangvinhpham/quangvinhpham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Medical Physics graduate from Vietnam with a deep interest in applying AI to medical imaging and radiotherapy optimization.
 
-Here are some ideas to get you started:
+## 🔬 Research Interests
+- AI applications in **medical image diagnosis**
+- **Radiotherapy optimization**, especially in stereotactic radiosurgery (SRS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+- **Programming Languages**: Python, R, C++
+- **Libraries & Frameworks**: PyTorch, scikit-learn, NumPy
+
+## 📚 Previous Projects
+- **Deep Learning for Tumor Detection**: Researched the use of deep neural network architectures for detecting lung tumors on CT images.
+- **Geometric Optimization in SRS**: Developed methods to optimize treatment geometry for multi-target brain metastasis stereotactic radiosurgery.
+
+## 📫 Contact
+- 📧 Email: [vinhphamhust@gmail.com](mailto:vinhphamhust@gmail.com)
+
+---
+Thanks for visiting my profile!
