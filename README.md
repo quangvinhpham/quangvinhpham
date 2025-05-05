@@ -39,7 +39,6 @@ I aim to contribute to the development of intelligent tools for radiologists and
 
 - Bachelor of Science in Medical Physics  
   Hanoi University of Science and Technology, Vietnam  
-  (Graduated: 2025)
 
 ## 📫 Contact
 
